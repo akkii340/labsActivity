@@ -1,0 +1,13 @@
+In this I have used devexpress scheduler library to display active periods in two different view
+ # for current date in  DayView (which will display bar for each activity) 
+ # for other date MonthView  View with Appointment Component (displays activity period in tooltip on clicking the content of that day)
+ - check in package.json file
+    [
+    "@devexpress/dx-react-core": "^2.6.2",
+    "@devexpress/dx-react-scheduler": "^2.6.2",
+    "@devexpress/dx-react-scheduler-material-ui": "^2.6.2",
+    "@material-ui/core": "^4.9.10",
+    "@material-ui/icons": "^4.9.1",
+     "moment": "^2.24.0",	
+   ]
+just install all these and then - [npm start] :)

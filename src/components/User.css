@@ -1,0 +1,24 @@
+.modal{
+    position: relative;
+    background-color: azure;
+    width: 70%;
+    border: 1px solid #ccc;
+    box-shadow: 1px 1px black;
+    padding: 10px;
+    box-sizing: border-box;
+    margin: 10px;
+    justify-content: center;
+}
+
+.userName{
+   height: 40px;
+   background-color:lightgreen;
+   text-align: center;
+   text-decoration-color: lightgrey;
+}
+
+
+.calendar{
+    position: absolute;
+    transition: all 0.3s ease-out;
+}
